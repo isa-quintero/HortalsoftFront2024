@@ -1,0 +1,5 @@
+Aqui esta el corazon, ya que se definen las entidades de la aplicacion
+las reglas de negocio y los casos de uso.
+Los casos de uso: representan una funcionalidad completa de la aplicacion
+Las entidades: son objetos que encapsulan datos y comportamientos 
+Las reglas de negocio: son las restricciones y condiciones que rigen el comportamiento de las entidades

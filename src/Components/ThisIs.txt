@@ -1,0 +1,4 @@
+Aqui se encuentra la capa de aplicacion. 
+Capa responsable de coordinan los diferentes componentes de la aplicacion,
+estos tambien pueden se usados para realizar tareas adicionales como 
+validacion de entradas y conversion de datos

@@ -1,0 +1,1 @@
+Paginas o vistas de la aplicacion que se componen de uno o varios componentes 
